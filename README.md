@@ -9,3 +9,6 @@ https://drive.google.com/file/d/1-I-9Y-lqTJue_2jg9TPFZVuyJledQyQ7/view?usp=drive
 
 Demo video link 
 https://drive.google.com/file/d/1ZQPQDR-qVo_ES2aDFRRvEvuux21U92Oe/view?usp=drivesdk
+
+Data set link 
+https://docs.google.com/spreadsheets/d/1bMoO3rK5_2g_ciJHhhxIiqpzxNMuup-1/edit?usp=drivesdk&ouid=109960421796530837699&rtpof=true&sd=true
